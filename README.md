@@ -1,4 +1,3 @@
-#Password_Detector_LPC1768
 The objective of this project is to build a password detector using LPC1768 microcontroller along with keyboard,LEDs and LCD display. The system will allow users to input a password using keyboard, which will then be compared to a pre-defined password. If the input matches the correct password, the LCD will display “Access Granted” and LED will light up in a pattern, indicating successful authentication. Otherwise, a red LED will indicate authentication.
 
 Components Required :
